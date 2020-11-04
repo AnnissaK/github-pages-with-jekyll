@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my homepage
 
-I'm glad you are here. I plan to talk about ...
+I am using github-pages to document my coding progression through showcasing my projects.I am currently on a Junior Data Engineering course run by Generation in coalition with Infinity Works aimed to provide participants with firm fundamentals in python programming, utilising AWS and MySQl.Currenly I have an interactive terminal python app which takes user input and persists the inputs to MySQl databases spun up using docker. Databases were used as a way for the app to store certain customer data as the main functionality of the app is to take user inputs drinks orders and store their preferences or weekly preferences for regular customers. I plan to create many more projects that will become more and more advanced as I gain further knowledge in python.
